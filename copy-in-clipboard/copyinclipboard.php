@@ -2,9 +2,9 @@
 /*
 Plugin Name: Copy in clipboard
 Description: Small plugin that copy text into clipboard (onClick) from title tag using zeroclipboard.
-Author: CoYoTe
-Version: 0.6.1
-Author URI: http://www.ivanherceg.in.rs
+Author: Praveen Akinapally
+Version: 0.1
+Author URI: http://www.dealsindiadeals.com
 */
 	wp_register_script( 'jquery', WP_PLUGIN_URL . '/copy-in-clipboard/jquery-1.9.1.min.js' );
 	wp_enqueue_script('jquery');
